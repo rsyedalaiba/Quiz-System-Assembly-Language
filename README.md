@@ -1,1 +1,2 @@
 # Quiz-System-Assembly-Language
+A console-based quiz system implemented in Assembly language. The program presents users with questions, evaluates their answers, and tracks their scores using in-memory variables. It provides real-time feedback and score updates based on user responses. This project demonstrates low-level programming concepts, including input handling, memory management, and control flow.
